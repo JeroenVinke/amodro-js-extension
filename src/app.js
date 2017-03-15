@@ -1,0 +1,1 @@
+define(['./some-dir/foo'], function () {});
